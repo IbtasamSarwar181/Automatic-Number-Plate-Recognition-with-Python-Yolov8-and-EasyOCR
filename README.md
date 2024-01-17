@@ -1,0 +1,1 @@
+# Automatic-Number-Plate-Recognition-with-Python-Yolov8-and-EasyOCR
